@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie1</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="detailTitle">Title</string>
+    <string name="detailRating">Average Rating</string>
+    <string name="detailReleaseDate">Release Date</string>
+    <string name="detailSynopsis">Synopsis</string>
+    <string name="extraName">Object</string>
+    <string name="Reviews">Reviews</string>
+    <string name="Trailers">Trailers:</string>
+    <string name="tap_to_favourite">tap to favourite</string>
+    <string name="favourites">favourites</string>
+
+</resources>
